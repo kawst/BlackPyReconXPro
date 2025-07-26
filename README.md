@@ -206,7 +206,7 @@ Ce projet est sous licence éducative. Utilisation autorisée uniquement à des 
 
 ## 👨‍💻 Auteur
 
-**NCho Yao / NysAfrica**
+**k@wst / Strong System Africa**
 - Framework éducatif de cybersécurité
 - Interface moderne React/TypeScript
 - Simulation réaliste sans composants malveillants
